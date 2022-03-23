@@ -1,0 +1,14 @@
+E:\VS Project\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+E:\VS Project\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+E:\VS Project\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+E:\VS Project\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+E:\VS Project\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+E:\VS Project\MyApp\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.AssemblyReference.cache
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+E:\VS Project\MyApp\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
